@@ -1,3 +1,6 @@
 [submodule "BKDR"]
 	path = BKDR
 	url = git@github.com:cryptoEcho/BKDR.git
+[submodule "CS50"]
+	path = CS50
+	url = git@github.com:cryptoEcho/CS50.git

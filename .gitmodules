@@ -1,0 +1,3 @@
+[submodule "BKDR"]
+	path = BKDR
+	url = git@github.com:cryptoEcho/BKDR.git

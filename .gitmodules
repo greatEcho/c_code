@@ -7,3 +7,6 @@
 [submodule "c_stepik"]
 	path = c_stepik
 	url = git@github.com:cryptoEcho/c_stepik.git
+[submodule "SysProg"]
+	path = SysProg
+	url = git@github.com:cryptoEcho/SysProg.git
